@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9KEDabmDI9805L/VViqfjg1OrOD4uAgGryeNkiytMhkPNBnZ1CL2AqMBXOAqSlQW5tRmEQnKpkFQVSqKdVJnsQ==",
+  "dgSpecHash": "5jaFBypv/asD5KsSaAgIgkDl6Q2nwB4PZSDmuC+ac1yV2AK83ktFWi/GD0bO2MK/UHNLtWNtB5ILWeufv+j4wA==",
   "success": true,
-  "projectFilePath": "B:\\Pluralsight\\Automation Framework Development with Selenium c#\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+  "projectFilePath": "B:\\Github Repos\\Selenium-udemy-course\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bernh\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Bernh\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

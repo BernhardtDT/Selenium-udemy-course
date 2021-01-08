@@ -2,6 +2,7 @@ using System;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using SeleniumCSharpNetCore.Pages;
 
 
 namespace SeleniumCSharpNetCore
@@ -28,6 +29,21 @@ namespace SeleniumCSharpNetCore
 
             Console.WriteLine("Test 1");
             Assert.Pass();
+        }
+        
+        [Test]
+        public void LoginTest()
+        {
+            Driver.Navigate().GoToUrl("http://localhost:64429/");
+
+            HomePage homePage = new HomePage();
+            LoginPage loginPage = new LoginPage();
+            
+            homePage.ClickLogin();
+            loginPage.EnterUserNameAndPassword("admin", "password");
+            loginPage.ClickLogin();
+            
+            Assert.AreEqual(homePage.IsLogOffExist, true);
         }
     }
 }

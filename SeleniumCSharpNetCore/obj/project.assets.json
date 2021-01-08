@@ -4613,11 +4613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Pluralsight\\Automation Framework Development with Selenium c#\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectUniqueName": "B:\\Github Repos\\Selenium-udemy-course\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "projectName": "SeleniumCSharpNetCore",
-      "projectPath": "B:\\Pluralsight\\Automation Framework Development with Selenium c#\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectPath": "B:\\Github Repos\\Selenium-udemy-course\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "packagesPath": "C:\\Users\\Bernh\\.nuget\\packages\\",
-      "outputPath": "B:\\Pluralsight\\Automation Framework Development with Selenium c#\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
+      "outputPath": "B:\\Github Repos\\Selenium-udemy-course\\SeleniumCSharpNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bernh\\AppData\\Roaming\\NuGet\\NuGet.Config",
